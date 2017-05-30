@@ -6,3 +6,6 @@ Added change
 New line
 
 Another change
+
+Test #1892 issue
+
